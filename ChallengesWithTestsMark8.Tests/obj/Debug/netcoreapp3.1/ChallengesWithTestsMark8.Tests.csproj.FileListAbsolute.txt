@@ -102,13 +102,13 @@ D:\CSharp\TC\repos\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\ne
 D:\CSharp\TC\repos\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
 D:\CSharp\TC\repos\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
 D:\CSharp\TC\repos\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
-D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
-D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.deps.json
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.runtimeconfig.json
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.runtimeconfig.dev.json
