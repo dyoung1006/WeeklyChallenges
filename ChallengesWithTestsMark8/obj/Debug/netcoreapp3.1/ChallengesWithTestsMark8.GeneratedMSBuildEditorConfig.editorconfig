@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = ChallengesWithTestsMark8
-build_property.ProjectDir = D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\
+build_property.ProjectDir = D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -206,3 +206,5 @@ D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\net
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
 D:\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
