@@ -17,15 +17,9 @@ namespace ChallengesWithTestsMark8
             }
             return false;
         }
-
-        public bool IsSumOfOddsOdd(IEnumerable<int> numbers)
-        {
-            if (numbers == null || numbers.Count() == 0)
-            {
-                return false;
-            }
-            return (numbers.Sum() % 2 != 0);
-        }
+        
+        public bool IsSumOfOddsOdd(IEnumerable<int> numbers) => _ = (numbers == null || numbers.Count() == 0) ? false : (numbers.Sum() % 2 != 0);
+       
 
         public bool PasswordContainsUpperLowerAndNumber(string password)
         {
@@ -63,17 +57,6 @@ namespace ChallengesWithTestsMark8
 
         public char GetFirstLetterOfString(string val)
         {
-            //--if we wanted a true letter
-            //foreach (char c in val)
-            //{
-            //    if (Char.IsLetter(c))
-            //    {
-            //        return c;
-            //    }
-            //}
-            //return ' ';
-
-
             if (val == null)
             {
                 return ' ';
