@@ -59,9 +59,7 @@ namespace ChallengesWithTestsMark8
         }
 
         public bool IsStringANumber(string input)
-        {
-            //eturn input.All(char.IsNumber);
-
+        {          
             var isNumber = double.TryParse(input, out double number);
             return isNumber;
         }

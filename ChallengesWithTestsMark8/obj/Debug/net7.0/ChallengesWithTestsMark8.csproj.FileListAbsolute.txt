@@ -1,0 +1,15 @@
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net7.0\ChallengesWithTestsMark8.exe
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net7.0\ChallengesWithTestsMark8.deps.json
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net7.0\ChallengesWithTestsMark8.runtimeconfig.json
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net7.0\ChallengesWithTestsMark8.dll
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net7.0\ChallengesWithTestsMark8.pdb
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.AssemblyInfo.cs
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.sourcelink.json
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.dll
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\refint\ChallengesWithTestsMark8.dll
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.pdb
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ChallengesWithTestsMark8.genruntimeconfig.cache
+D:\MyFiles\CSharp\TC\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net7.0\ref\ChallengesWithTestsMark8.dll
